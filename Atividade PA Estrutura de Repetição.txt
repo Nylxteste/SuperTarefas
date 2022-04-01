@@ -1,0 +1,62 @@
+﻿Atividade Estrutura de Repetição;
+
+Usar estrutura de repetição para a realização do trabalho.
+
+1 - Imprima na tela os números de 1 até 100.
+
+2 - Faça um programa que percorra todos os número de 1 até 100. Para os números ímpares, deve
+ser impresso um“*”, e para os números pares, deve ser impresso dois “**”. Veja o exemplo abaixo:
+
+// Saída
+*
+**
+*
+**
+*
+**
+
+3 - Faça um programa que percorra todos os número de 1 até 100. Para os números múltiplos de 4,
+imprima a palavra “PI”, e para os outros, imprima o próprio número. Veja o exemplo abaixo:
+
+// Saída
+1
+2
+3
+PI
+5
+6
+7
+PI
+
+4 - Crie umprograma que imprima na tela um triângulo de “*”. Veja o exemplo abaixo:
+
+// Saída
+*
+**
+***
+****
+*****
+
+5 - Crie umprograma que imprima na tela vários triângulos de “*”. Observe o padrão abaixo.
+
+// Saída
+*
+**
+***
+****
+*
+**
+***
+****
+
+6 - Crie umprograma que imprima na tela um quadrado perfeito.Observe o padrão abaixo.
+
+// Saída
+*****
+*****
+*****
+*****
+*****
+
+7 - Use seus conhecimentos para criar um programa que mostre um menu de atalho para os 6
+padrões que acabamos ver. Desenvolva um programa GerarPadroes com um menu com todas as opções acima.
